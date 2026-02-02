@@ -64,6 +64,9 @@ First Year BSc AI & ML Student 🎓 | Aspiring AI/ML Engineer 🤖 | Internship 
   <a href="https://www.facebook.com/share/16rinm9XZC/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+<a href="mailto:ayushpatil69086@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
