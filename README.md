@@ -1,33 +1,82 @@
-<h1 align="center">Hi 👋, I'm Ayush Yogesh Patil</h1>
-<h3 align="center">👨‍💻Ai & Ml Engineer| Developer</h3>
+<h1 align="center">Hi 👋, I'm Ayush Patil</h1>
+<h3 align="center">
+First Year BSc AI & ML Student 🎓 | Aspiring AI/ML Engineer 🤖 | Internship Seeker 🚀
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpatil230308&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpatil230308" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ayush_patil2007" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_patil2007?logo=twitter&style=for-the-badge" alt="ayush_patil2007" /></a> </p>
-
-- 🔭 I’m currently working on **Improve my current skills Building AI chatbots, ML Models & NLP Systems**
-
-- 🌱 I’m currently learning **in F.Y B.Sc Ai & ML**
-
-- 👯 I’m looking to collaborate on **AI /ml open source projects**
-
-- 🤝 Open to Research, **Internships and freelance ai work**
-
-- 💬 Ask me about **Python, Ai & ML,**
-
-- 📫 How to reach me **ayushpatil69086@gmail.com**
-
-- ⚡ Fun fact **The World’s Biggest Open-Source Playground😮‍💨**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayush_patil2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush_patil2007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush patil" height="30" width="40" /></a>
-<a href="https://fb.com/patil ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patil ayush" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush_patil230308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_patil230308" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=First+Year+AI+%26+ML+Student;Actively+Looking+for+Internship;Python+Learner;Future+AI+Engineer;Always+Learning+New+Things" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpatil230308&show_icons=true&locale=en&layout=compact" alt="ayushpatil230308" /></p>
+## 🚀 About Me
+- 🎓 **First Year BSc Student** in Artificial Intelligence & Machine Learning  
+- 🌱 Currently learning **Python, Machine Learning & Data Science**
+- 💡 Interested in **AI, Automation & Smart Technologies**
+- 👨‍💻 Building projects to improve practical skills
+- 🎯 **Actively seeking Internship opportunities (First Year / Fresher)**
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Science-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Projects
+- 🔹 Student Management System (Python)
+- 🔹 Machine Learning Basics Projects
+- 🔹 Data Cleaning & Preprocessing Practice
+- 🔹 AI/ML Mini Projects  
+
+✨ *More projects coming soon as I learn and grow*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushpatil230308&show_icons=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpatil230308" height="150"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-patil-213123389" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ayush_patil230308" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/ayush_patil2007" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/share/16rinm9XZC/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushpatil230308/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushpatil230308&label=Profile+Views&style=flat"/>
+</p>
+
+⭐ **Thank you for visiting my GitHub profile!**
